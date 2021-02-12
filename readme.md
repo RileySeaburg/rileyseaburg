@@ -1,7 +1,7 @@
-# Tadeu Tupinambá 👨‍💻
+# Riley Seaburg 👨‍💻
 
-<img align='right' src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="230">
-<p><em>Software Enginner at Insider, Inc.</br></em></p>
+<img align='right' src="https://media.giphy.com/media/LcHct14xr84Sc/giphy.gif" width="230">
+<p><em>Chief Marketing Officer at [HammerSport Marketing](https://hammersportmarketing.com)</br></em></p>
 
 ![](https://komarev.com/ghpvc/?username=rileyseaburg&color=brightgreen)
 
