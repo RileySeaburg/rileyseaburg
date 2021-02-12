@@ -1,6 +1,6 @@
 # Riley Seaburg 👨‍💻
 
-<img align='right' src="https://media.giphy.com/media/LcHct14xr84Sc/giphy.gif" width="230">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=rileyseaburg&theme=vue&show_icons=true&hide_border=true" alt="Riley's Github Stats" width="230">
 
 Chief Marketing Officer at [HammerSport Marketing](https://hammersportmarketing.com)
 
@@ -10,7 +10,7 @@ Chief Marketing Officer at [HammerSport Marketing](https://hammersportmarketing.
 [![facebook](https://img.shields.io/badge/-facebook-222222?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/rileyseaburg/)](https://facebook.com/rileyseaburg/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rileyseaburg/)](https://www.linkedin.com/in/rileyseaburg/)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rileyseaburg&theme=vue&show_icons=true&hide_border=true" alt="Riley's Github Stats">
+<img align='center' src="https://media.giphy.com/media/LcHct14xr84Sc/giphy.gif" >
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=00C756)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=00C756)
