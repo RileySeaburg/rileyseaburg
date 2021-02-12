@@ -16,6 +16,7 @@ Chief Marketing Officer at [HammerSport Marketing](https://hammersportmarketing.
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=00C756)
 ![TypeScript](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=00C756)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=00C756)
+<br>
 ![PHP](https://img.shields.io/badge/php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=00C756)
 ![Go](https://img.shields.io/badge/go-grey?style=for-the-badge&logo=go&logoColor=white&labelColor=00C756)
 ![ruby](https://img.shields.io/badge/ruby-grey?style=for-the-badge&logo=ruby&logoColor=white&labelColor=00C756)
