@@ -1,7 +1,7 @@
 # Riley Seaburg 👨‍💻
 
 <img align='right' src="https://media.giphy.com/media/LcHct14xr84Sc/giphy.gif" width="230">
-<p><em>Chief Marketing Officer at [HammerSport Marketing](https://hammersportmarketing.com)</br></em></p>
+<p><em>Chief Marketing Officer at [[HammerSport Marketing](https://hammersportmarketing.com)]</br></em></p> 
 
 ![](https://komarev.com/ghpvc/?username=rileyseaburg&color=brightgreen)
 
