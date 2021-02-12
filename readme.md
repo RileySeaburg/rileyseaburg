@@ -1,7 +1,10 @@
 # Riley Seaburg 👨‍💻
 
 <img align='right' src="https://media.giphy.com/media/LcHct14xr84Sc/giphy.gif" width="230">
-## Chief Marketing Officer at [HammerSport Marketing](https://hammersportmarketing.com)
+## Chief Marketing Officer [HammerSport Marketing](https://hammersportmarketing.com)
+## 🧐 About <a name = "about"></a>
+
+This project was built from a [Traversy Media](https://www.youtube.com/watch?v=Z57566JBaZQ) turtorial on youtube. It is a part of my portfolio but you are free to use it for you purposes as well.
 
 ![](https://komarev.com/ghpvc/?username=rileyseaburg&color=brightgreen)
 
