@@ -2,8 +2,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=rileyseaburg&theme=vue&show_icons=true&hide_border=true" alt="Riley's Github Stats" width="400">
 
-Chief Marketing Officer at [HammerSport Marketing](https://hammersportmarketing.com)
-
 ![](https://komarev.com/ghpvc/?username=rileyseaburg&color=brightgreen)
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/rileyseaburg/)](https://twitter.com/rileyseaburg/)
