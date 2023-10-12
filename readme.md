@@ -1,28 +1,35 @@
 # Riley Seaburg 👨‍💻
 
+![Profile views](https://komarev.com/ghpvc/?username=rileyseaburg&color=brightgreen)
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/rileyseaburg/)](https://twitter.com/rileyseaburg/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/rileyseaburg/)](https://facebook.com/rileyseaburg/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rileyseaburg/)](https://www.linkedin.com/in/rileyseaburg/)
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=rileyseaburg&theme=vue&show_icons=true&hide_border=true" alt="Riley's Github Stats" width="400">
-
-![](https://komarev.com/ghpvc/?username=rileyseaburg&color=brightgreen)
-
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/rileyseaburg/)](https://twitter.com/rileyseaburg/)
-[![facebook](https://img.shields.io/badge/-facebook-222222?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/rileyseaburg/)](https://facebook.com/rileyseaburg/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rileyseaburg/)](https://www.linkedin.com/in/rileyseaburg/)
 
 <img align='center' src="https://media.giphy.com/media/LcHct14xr84Sc/giphy.gif" >
 
-![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=00C756)
-![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=00C756)
-![TypeScript](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=00C756)
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=00C756)
-<br>
-![PHP](https://img.shields.io/badge/php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=00C756)
-![Go](https://img.shields.io/badge/go-grey?style=for-the-badge&logo=go&logoColor=white&labelColor=00C756)
-![ruby](https://img.shields.io/badge/ruby-grey?style=for-the-badge&logo=ruby&logoColor=white&labelColor=00C756)
-![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=00C756)
-![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=00C756)
-<br>
-![wordpress](https://img.shields.io/badge/wordpress-grey?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=00C756)
-![shopify](https://img.shields.io/badge/shopify-grey?style=for-the-badge&logo=shopify&logoColor=white&labelColor=00C756)
-<br>
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=00C756)
-![Crates.io](https://img.shields.io/crates/l/rustyroad)
+### Languages:
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Runtime:
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Frameworks:
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+
+### Platforms:
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)](https://kubernetes.io/)
+
+### Crates:
+[![Rusty Road on crates.io](https://img.shields.io/crates/v/rustyroad.svg?style=for-the-badge&logo=rust&logoColor=white)](https://crates.io/crates/rustyroad)
