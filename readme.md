@@ -31,7 +31,7 @@
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
 ### Platforms:
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)](https://kubernetes.io/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 
 ### Crates:
 [![Rusty Road on crates.io](https://img.shields.io/crates/v/rustyroad.svg?style=for-the-badge&logo=rust&logoColor=white)](https://crates.io/crates/rustyroad)
