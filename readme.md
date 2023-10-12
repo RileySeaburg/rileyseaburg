@@ -25,3 +25,4 @@
 ![shopify](https://img.shields.io/badge/shopify-grey?style=for-the-badge&logo=shopify&logoColor=white&labelColor=00C756)
 <br>
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=00C756)
+![Crates.io](https://img.shields.io/crates/l/rustyroad)
