@@ -8,7 +8,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=rileyseaburg&theme=vue&show_icons=true&hide_border=true" alt="Riley's Github Stats" width="400">
 
-<img align='center' src="https://media.giphy.com/media/LcHct14xr84Sc/giphy.gif" >
+<img align='center' src="https://i.giphy.com/media/d4zHnLjdy48Cc/giphy.webp" >
 
 ### Languages:
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
