@@ -27,7 +27,7 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net)
 
 ### Frameworks:
-![Rusty Road](https://img.shields.io/crates/v/rustyroad.svg?style=for-the-badge&logo=rustyroad&logoColor=white)
+[![Rusty Road](https://img.shields.io/crates/v/rustyroad.svg?style=for-the-badge&logo=rustyroad&logoColor=white)](https://crates.io/crates/rustyroad)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
